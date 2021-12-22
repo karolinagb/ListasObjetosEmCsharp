@@ -1,0 +1,16 @@
+C:\projetos\ListasObjetosEmCsharp\ListaSomenteLeitura\ListaSomenteLeitura\bin\Debug\net5.0\ListaSomenteLeitura.exe
+C:\projetos\ListasObjetosEmCsharp\ListaSomenteLeitura\ListaSomenteLeitura\bin\Debug\net5.0\ListaSomenteLeitura.deps.json
+C:\projetos\ListasObjetosEmCsharp\ListaSomenteLeitura\ListaSomenteLeitura\bin\Debug\net5.0\ListaSomenteLeitura.runtimeconfig.json
+C:\projetos\ListasObjetosEmCsharp\ListaSomenteLeitura\ListaSomenteLeitura\bin\Debug\net5.0\ListaSomenteLeitura.runtimeconfig.dev.json
+C:\projetos\ListasObjetosEmCsharp\ListaSomenteLeitura\ListaSomenteLeitura\bin\Debug\net5.0\ListaSomenteLeitura.dll
+C:\projetos\ListasObjetosEmCsharp\ListaSomenteLeitura\ListaSomenteLeitura\bin\Debug\net5.0\ref\ListaSomenteLeitura.dll
+C:\projetos\ListasObjetosEmCsharp\ListaSomenteLeitura\ListaSomenteLeitura\bin\Debug\net5.0\ListaSomenteLeitura.pdb
+C:\projetos\ListasObjetosEmCsharp\ListaSomenteLeitura\ListaSomenteLeitura\obj\Debug\net5.0\ListaSomenteLeitura.csproj.AssemblyReference.cache
+C:\projetos\ListasObjetosEmCsharp\ListaSomenteLeitura\ListaSomenteLeitura\obj\Debug\net5.0\ListaSomenteLeitura.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\ListasObjetosEmCsharp\ListaSomenteLeitura\ListaSomenteLeitura\obj\Debug\net5.0\ListaSomenteLeitura.AssemblyInfoInputs.cache
+C:\projetos\ListasObjetosEmCsharp\ListaSomenteLeitura\ListaSomenteLeitura\obj\Debug\net5.0\ListaSomenteLeitura.AssemblyInfo.cs
+C:\projetos\ListasObjetosEmCsharp\ListaSomenteLeitura\ListaSomenteLeitura\obj\Debug\net5.0\ListaSomenteLeitura.csproj.CoreCompileInputs.cache
+C:\projetos\ListasObjetosEmCsharp\ListaSomenteLeitura\ListaSomenteLeitura\obj\Debug\net5.0\ListaSomenteLeitura.dll
+C:\projetos\ListasObjetosEmCsharp\ListaSomenteLeitura\ListaSomenteLeitura\obj\Debug\net5.0\ref\ListaSomenteLeitura.dll
+C:\projetos\ListasObjetosEmCsharp\ListaSomenteLeitura\ListaSomenteLeitura\obj\Debug\net5.0\ListaSomenteLeitura.pdb
+C:\projetos\ListasObjetosEmCsharp\ListaSomenteLeitura\ListaSomenteLeitura\obj\Debug\net5.0\ListaSomenteLeitura.genruntimeconfig.cache
