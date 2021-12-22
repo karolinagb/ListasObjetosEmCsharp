@@ -1,0 +1,16 @@
+C:\projetos\ListasObjetosEmCsharp\ListasDeObjetos\ListasDeObjetos\obj\Debug\net5.0\ListasDeObjetos.csproj.AssemblyReference.cache
+C:\projetos\ListasObjetosEmCsharp\ListasDeObjetos\ListasDeObjetos\obj\Debug\net5.0\ListasDeObjetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\ListasObjetosEmCsharp\ListasDeObjetos\ListasDeObjetos\obj\Debug\net5.0\ListasDeObjetos.AssemblyInfoInputs.cache
+C:\projetos\ListasObjetosEmCsharp\ListasDeObjetos\ListasDeObjetos\obj\Debug\net5.0\ListasDeObjetos.AssemblyInfo.cs
+C:\projetos\ListasObjetosEmCsharp\ListasDeObjetos\ListasDeObjetos\obj\Debug\net5.0\ListasDeObjetos.csproj.CoreCompileInputs.cache
+C:\projetos\ListasObjetosEmCsharp\ListasDeObjetos\ListasDeObjetos\bin\Debug\net5.0\ListasDeObjetos.exe
+C:\projetos\ListasObjetosEmCsharp\ListasDeObjetos\ListasDeObjetos\bin\Debug\net5.0\ListasDeObjetos.deps.json
+C:\projetos\ListasObjetosEmCsharp\ListasDeObjetos\ListasDeObjetos\bin\Debug\net5.0\ListasDeObjetos.runtimeconfig.json
+C:\projetos\ListasObjetosEmCsharp\ListasDeObjetos\ListasDeObjetos\bin\Debug\net5.0\ListasDeObjetos.runtimeconfig.dev.json
+C:\projetos\ListasObjetosEmCsharp\ListasDeObjetos\ListasDeObjetos\bin\Debug\net5.0\ListasDeObjetos.dll
+C:\projetos\ListasObjetosEmCsharp\ListasDeObjetos\ListasDeObjetos\bin\Debug\net5.0\ref\ListasDeObjetos.dll
+C:\projetos\ListasObjetosEmCsharp\ListasDeObjetos\ListasDeObjetos\bin\Debug\net5.0\ListasDeObjetos.pdb
+C:\projetos\ListasObjetosEmCsharp\ListasDeObjetos\ListasDeObjetos\obj\Debug\net5.0\ListasDeObjetos.dll
+C:\projetos\ListasObjetosEmCsharp\ListasDeObjetos\ListasDeObjetos\obj\Debug\net5.0\ref\ListasDeObjetos.dll
+C:\projetos\ListasObjetosEmCsharp\ListasDeObjetos\ListasDeObjetos\obj\Debug\net5.0\ListasDeObjetos.pdb
+C:\projetos\ListasObjetosEmCsharp\ListasDeObjetos\ListasDeObjetos\obj\Debug\net5.0\ListasDeObjetos.genruntimeconfig.cache
